@@ -7,6 +7,8 @@ import sys
 ## genes have to be goven in a text file of the following format:
 ## <EMSBL gene ID>\t<labeling eff>\n
 
+#Author: Anika Neuschulz
+
 if len(sys.argv) == 3:
     ifn = sys.argv[1]
     genes_file = sys.argv[2]
