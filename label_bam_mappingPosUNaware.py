@@ -5,6 +5,8 @@ import sys
 
 ## now with 100% less quality strings being lost!
 
+# Author: Anika Neuschulz
+
 if len(sys.argv) == 3:
     ifn = sys.argv[1]
     eff = int(sys.argv[2])
